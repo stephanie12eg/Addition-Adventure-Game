@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">986364086636</string>
+  <string name="google_storage_bucket" translatable="false">addadventure-9debc.appspot.com</string>
+  <string name="project_id" translatable="false">addadventure-9debc</string>
+  <string name="google_api_key" translatable="false">AIzaSyCFh64pOk7y8TmBaUcOOjeaW9X_mn7pW_c</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFh64pOk7y8TmBaUcOOjeaW9X_mn7pW_c</string>
+  <string name="google_app_id" translatable="false">1:986364086636:android:94ad613646b40ef6624b49</string>
+  <string name="default_web_client_id" translatable="false">986364086636-5nolu3jusd74m8unb3tgk83edfsp58lr.apps.googleusercontent.com</string>
+</resources>

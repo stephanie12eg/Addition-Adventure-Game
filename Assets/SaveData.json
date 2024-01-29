@@ -1,0 +1,67 @@
+{
+    "users": [
+        {
+            "userID": "mHhiyL7uhFaBdpujgjKkhwlmykb2",
+            "correctAnswers": 9,
+            "incorrectAnswers": 1,
+            "currentLevel": 0,
+            "highestLevel": 0,
+            "currentStreak": 4,
+            "highestStreak": 5
+        },
+        {
+            "userID": "ht6rx9BkH8a61P5tIOXIYpEQaNA3",
+            "correctAnswers": 23,
+            "incorrectAnswers": 1,
+            "currentLevel": 0,
+            "highestLevel": 0,
+            "currentStreak": 22,
+            "highestStreak": 22
+        },
+        {
+            "userID": "8XsxbzAVxggL9b1JLLyV4QLRygs1",
+            "correctAnswers": 3,
+            "incorrectAnswers": 2,
+            "currentLevel": 0,
+            "highestLevel": 0,
+            "currentStreak": 2,
+            "highestStreak": 2
+        },
+        {
+            "userID": "LHEgnHEyIuaUkZGP9aWW3O6UTHG2",
+            "correctAnswers": 26,
+            "incorrectAnswers": 4,
+            "currentLevel": 3,
+            "highestLevel": 3,
+            "currentStreak": 0,
+            "highestStreak": 17
+        },
+        {
+            "userID": "AgGwonZrWmhlGP1AtvzlBg4aTDr1",
+            "correctAnswers": 0,
+            "incorrectAnswers": 1,
+            "currentLevel": 0,
+            "highestLevel": 0,
+            "currentStreak": 0,
+            "highestStreak": 0
+        },
+        {
+            "userID": "RwPwFnwm8sYAYX0F5mOk90zkvpz2",
+            "correctAnswers": 2,
+            "incorrectAnswers": 1,
+            "currentLevel": 0,
+            "highestLevel": 0,
+            "currentStreak": 1,
+            "highestStreak": 1
+        },
+        {
+            "userID": "",
+            "correctAnswers": 1,
+            "incorrectAnswers": 0,
+            "currentLevel": 0,
+            "highestLevel": 0,
+            "currentStreak": 1,
+            "highestStreak": 1
+        }
+    ]
+}
